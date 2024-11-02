@@ -2,7 +2,7 @@ import React from 'react'
 import './Chat.css'
 import Contacts from './Contacts'
 import ChatHeader from './Chat/ChatHeader'
-import ChatBody from './Chat/ChatBody'
+import ChatBody from './Chat/ChatBody/ChatBody'
 import ChatFooter from './Chat/ChatFooter'
 
 const Chat = ({ messages }) => {

@@ -3,13 +3,13 @@
         "message1": {
             "user": "gabriel69",
             "message": "como faz pra usar uma foto png no react?",
-            "date_hour": "01/11/2024, 21:52",
+            "date_time": "01/11/2024, 21:52",
             "massage_id": "123"
         },
         "message2": {
             "user": "jorgecap",
             "message": "você importa o nome da foto, por exemplo, 'capacete'",
-            "date_hour": "01/11/2024, 21:59",
+            "date_time": "01/11/2024, 21:59",
             "massage_id": "1234"
         }
     }
